@@ -1,0 +1,1 @@
+num = leia.questionInt("Escolha um numero:\n");
